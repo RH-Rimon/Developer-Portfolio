@@ -200,3 +200,78 @@ nav ul{
     height: 239px;
     text-align: justify;
 }
+
+/* Resume */
+
+.resume{
+
+    width: 1140px;
+    height: 720px;
+    margin: 0 auto;
+    margin-bottom: 500px;
+
+}
+
+.resume-container{
+
+    display: flex;
+    gap: 25px;
+}
+
+.experience-title{
+
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.experience-subtitle{
+
+    font-size: 20px;
+    color: #757575;
+}
+
+.experience-description{
+
+    font-size: 16px;
+    color: #757575;
+}
+
+.summary{
+
+    text-align: center;
+}
+.download{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 780px;
+}
+
+/* Footer */
+
+footer{
+
+    display: flex;
+    justify-content: space-around;
+    gap: 350px;
+    width: 1600px;
+    height: 780px;
+    padding: 130px 230px;
+}
+.para-11{
+
+    width: 562px;
+    height: 56px;
+}
+
+.form-part{
+    margin-bottom: 24px;
+   
+}
+
+.input-part{
+
+    width: 461px;
+    height: 64px;
+    padding: 25px;
+    font-size: 18px;
+}
